@@ -106,6 +106,4 @@ void imprimirCase0()
     printf("Você Saiu\n");
     printf ("Integrantes e RA:\n");
     printf("Gabriel Lucas Palotta - 260030128\n");
-    printf("Tiago Cedaro - 260029910\n");
-    printf("Ian Ferreira Fernandes - 260030064");
 }
