@@ -10,7 +10,9 @@ O sistema permite cadastrar até 50 alunos, inserir três notas para cada aluno,
 O programa possui um menu principal com as seguintes opções:
 
 1 - Cadastrar aluno: permite inserir o nome e as três notas do aluno. Após o cadastro, o sistema calcula a média e informa se o aluno foi aprovado ou reprovado.
+
 2 - Listagem geral: exibe todos os alunos cadastrados, suas respectivas notas e médias.
+
 0 - Sair: encerra o programa.
 
 Conceitos utilizados
