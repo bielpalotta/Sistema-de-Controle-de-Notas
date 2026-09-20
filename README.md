@@ -36,6 +36,7 @@ Os nomes são armazenados em um vetor de strings, enquanto as notas e médias s�
 A média é calculada através da fórmula:
 
 Média = (Nota 1 + Nota 2 + Nota 3) / 3
+
 Caso a média seja maior ou igual a 6, o aluno é considerado aprovado. Caso contrário, é considerado reprovado.
 
 O código também possui um limite de 50 alunos cadastrados, evitando que o programa ultrapasse o tamanho definido para os vetores.
